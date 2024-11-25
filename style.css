@@ -1,0 +1,44 @@
+.foto{
+ width:  auto;
+height: 500px;
+margin-left: 700px;
+}
+.name{
+   text-align: center;
+}
+.info{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Arial Narrow';
+
+}
+ul{
+list-style-type: none;
+padding: 0;
+}
+#about{
+    text-align: center;
+   /* margin-bottom: 100px;*/
+}
+#languages{
+    margin-bottom: 100px;
+}
+li {
+    display: inline;
+    margin-right: 100px;
+    font-size: 2em;
+    font-weight: 500;
+}
+footer{
+   background-color: black;
+   
+
+}
+.Contact{
+    color: white;
+    text-align: center;
+}
+.contact{
+    color: white;
+    text-align: center;
+}
